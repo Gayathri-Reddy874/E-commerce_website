@@ -12,4 +12,4 @@ Additionally, the project demonstrates the importance of code organization, reus
 
 Overall, this eCommerce project integrates web design, interactivity, and responsive development into a single cohesive application, making it an ideal learning project for anyone aspiring to become a front-end web developer.
 
-(Word count: 349) ✅
+
